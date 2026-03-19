@@ -1,4 +1,4 @@
-# 🌸 Female Population Data Analysis with Machine Learning
+# Female Population Data Analysis with Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-orange?logo=scikit-learn)
