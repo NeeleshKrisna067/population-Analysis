@@ -207,7 +207,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
-## 👩‍💻 Author
 
-Made with ❤️ for gender equality data science.
-Feel free to ⭐ the repo if you found it useful!
